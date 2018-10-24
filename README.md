@@ -1,2 +1,3 @@
 # JavaScript-Game-Project
-JavaScript concepts on DOM manipulation and events practice.
+
+Working on JavaScript DOM manipulation and events practice.
